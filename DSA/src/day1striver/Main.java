@@ -5,7 +5,7 @@ public abstract class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int A[] = {1,3,5,6};
-		int K=2;
+		int K=3;
 		int N=A.length;		//System.out.println(lenOfLongSubarr(A, N, K));
 		System.out.println(searchInsert(A,K));
 
